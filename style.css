@@ -1,0 +1,69 @@
+
+.image{
+    z-index: 0;
+    height: 600px;
+    margin-top: 20px;
+}
+.text-over-image{
+    z-index: 1;
+    margin-top: -590px;
+    text-align: center;
+    color: wheat;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.imgp{
+    text-align: center;
+    color: white;
+    width: 390px;
+    margin-left: 120px;
+}
+.img{
+    margin-left: 450px;
+}
+.reset{
+    all: revert;
+}
+.head1{
+    text-align: center;
+    color: rgb(29, 204, 227);
+}
+p{
+    text-align: center;
+}
+h4{
+    color: rgb(29, 204, 227);
+    margin-left: 200px;
+}
+input{
+    border: 1px solid rgb(29, 204, 227);
+    padding: 5px;
+    width: 230px;
+    margin-left: 200px;
+}
+.login-btn{
+    margin-left: 290px;
+    border: 1px solid rgb(29, 204, 227);
+    color: white;
+    background-color: rgb(29, 204, 227);
+}
+.goo-btn{
+    margin-left: 270px;
+}
+button{
+    border: 1px solid rgb(29, 204, 227);
+    color: white;
+    background-color: rgb(29, 204, 227)
+}
+.img1{
+    margin-top: 50px;
+}
+.img2{
+    margin-top: 50px;
+    margin-left: 399.5px;
+}
+.pass-p{
+    margin-left: 60px;
+}
